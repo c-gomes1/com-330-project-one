@@ -1,0 +1,40 @@
+Perhaps the most common question kids are asked is about what they want to be when they grow up; for
+the most part of my childhood, I could never come up with a clear answer. Growing up, I was
+fascinated by everything around me! I guess I am one of those people who thinks everything is
+possible with the right amount of effort, and so I was eager to try out as much as I could. Music
+lessons, soccer team, student council, I had to try it all! Even then, I wasn't really satisfied.
+
+The summer before eighth grade, my parents signed me up for Robotics Camp, where I learned about
+sensors and motors for the very first time. I was intrigued by what I could accomplish with just a
+few lines of code and curiously asked the instructor what else the robot could do. "Anything you'd
+like!" was the reply. My childish self quickly thought of an idea — "If I were to write a program to
+create a second me, I could do so many other things I've never had the time for!" Looking back, that
+was probably the moment my passion for programming developed.
+
+After returning home, I asked my parents to teach me everything they knew about computers. I also
+enrolled in a few different certification courses to get a professional touch. Noting my interest in
+creating a human-like computer program, one of my then professors encouraged me to read the book
+"Artificial Intelligence: A Modern Approach" by Russell and Norvig. I quickly realized that creating
+an AI wasn't going to be as easy as I initially thought; I would need to strengthen my fundamentals
+first.
+
+With that goal in mind, I enrolled at Illinois Tech, Chicago, to pursue a Dual Degree in Electrical
+and Computer Engineering. Planning tasks and learning by observation have always been my strong
+suits. In addition, I have always been interested in the way people think — more specifically, the
+way they express themselves through language (owing to which I can now hold a basic conversion in
+five different languages). Thanks to that, "perception," "cognition," and "language" are the three
+aspects of the human mind I've been most interested in. Accordingly, apropos of elective courses
+required for my major, I've always opted for classes that, at least to some extent, relate to one of
+these areas. Furthermore, I decided to pursue a minor in Psychology and enrolled in classes like
+Neuroscience and Learning Theory, among others. The more I learned, the more my interest in people
+increased. It was then that I decided to attend semester-long courses in France and Japan. Back at
+my home university, I joined the robotics organization on campus to have the opportunity to work
+with and learn from others, while also getting a more hands-on experience apropos of the things I
+learned in my classes. As a participant of the NASA Robotics Mining Competition, one of my main
+responsibilities was to plan the autonomous navigation of the robot, in which I employed a modified
+version of Dijkstra's algorithm using topological sort for the basic pathfinding task — one of the
+things I learned in the AI book I read in high school. With less than 6 months until graduation,
+perhaps my one regret would be that I wasn't able to apply for an internship (considering I have
+only been in the US for 3 semesters), though recently, I was a Teaching Assistant for the "Intro to
+Electrical and Computer Engineering" class at Illinois Tech. That said, I do believe I have gotten
+the most out of my time in college, so I am optimistic about the future.
