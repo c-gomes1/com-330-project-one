@@ -55,7 +55,8 @@ html {
 }
 
 body {
-	background: linear-gradient(to right, #2f3441 50%, #212531 50%);
+	background: linear-gradient(to right, #3282b8 50%, #0f4c75 50%);
+	border: 0.8vw double white;
 }
 
 h1 {
@@ -69,7 +70,9 @@ h2 {
 }
 
 p {
-	border-left: 0.8vw double #8c8b8b;
+	color: black;
+	border-left: 0.8vw dashed #0f4c75;
+	background-color: #bbe1fa;
 	font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
 	margin-left: 2%;
 	margin-right: 3%;
@@ -78,22 +81,23 @@ p {
 }
 
 br {
-	margin-top: 2vh;
+	margin-top: 1vh;
 }
 
 #divider {
 	width: 80%;
-	border-top: 0.5vh groove #8c8b8b;
+	border-top: 0.5vh ridge white;
 }
 
 #ender {
 	width: 60%;
-	border-top: 0.5vh dashed #8c8b8b;
-	margin-top: 5vh;
+	border-top: 0.5vh dotted white;
+	margin-top: 3vh;
 	margin-bottom: 2vh;
 }
 
 #pic {
+	border: 0.8vw double white;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
