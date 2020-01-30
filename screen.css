@@ -71,7 +71,7 @@ h2 {
 
 p {
 	color: black;
-	border-left: 0.8vw dashed #0f4c75;
+	border-left: 0.5vw dashed #0f4c75;
 	background-color: #bbe1fa;
 	font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
 	margin-left: 2%;
