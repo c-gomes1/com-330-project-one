@@ -52,24 +52,24 @@ br {
 
 #divider {
 	width: 80%;
-	border-top: 0.5vh ridge white;
+	border-top: 0.2em ridge white;
 }
 
 #ender {
 	width: 60%;
-	border-top: 0.5vh dotted white;
-	margin-top: 3vh;
-	margin-bottom: 2vh;
+	border-top: 0.3em dotted white;
+	margin-top: 1em;
+	margin-bottom: 1em;
 }
 
 #pic {
-	border: 0.8vw double white;
+	border: 0.6em double white;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 5%;
 	margin-bottom: 2%;
-	max-width: 400px;
+	max-width: 400px; 
 	width: 50%;
 }
 
