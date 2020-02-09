@@ -64,13 +64,24 @@ p:last-child::after {
   width: 60%;
 }
 
+/* Responsive Media */
+
+.photo {
+  margin-bottom: 1.414em;
+  margin-top: 2.121em;
+}
+
 #pic {
   border: 0.707em double #f1f1f1;
   display: block;
-  margin-bottom: 1.414em;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 2.121em;
   max-width: 400px;
   width: 50%;
+}
+
+.photo figcaption {
+  /* Use to visually coneal the caption*/
+  position: absolute;
+  left: -10000px;
 }
