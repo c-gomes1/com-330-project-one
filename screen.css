@@ -52,11 +52,16 @@ p {
 	padding-left: 0.5em;
 }
 
-#ender {
-	width: 60%;
-	border-top: 0.354em dotted #f1f1f1;
-	margin-top: 1em;
+p:last-child::after {
+	align: center;
+	content: "";
+	display: block;
+	border-bottom: 0.354em dotted #f1f1f1;
+	margin-left: 20%;
+	margin-right: 20%;
 	margin-bottom: 1em;
+	margin-top: 1em;
+	width: 60%;
 }
 
 #pic {
